@@ -1,0 +1,6 @@
+# Lines starting with '#' are considered comments.
+# Ignore (generated) .log and .db files,
+*.db
+*.log
+#Ignore directories
+.bin
